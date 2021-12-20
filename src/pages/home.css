@@ -1,0 +1,12 @@
+img {
+   height: 200px !important;
+   width: 100% !important;
+}
+
+.card-image {
+   padding: 20px 20px 0 20px !important;
+}
+
+.card-body {
+   height: 80px !important;
+}
